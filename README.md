@@ -1,6 +1,6 @@
 # Ururiye
 
-> A Somali-first POS and business management app for small shops, pharmacies, markets, restaurants, and local businesses in Somaliland.
+> A East African business management app for small shops, pharmacies, markets, restaurants, and local businesses in Somaliland.
 
 **Built with React Native · Expo · TypeScript · Firebase Auth · Firestore · Security Rules · Offline Queues**
 
