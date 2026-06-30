@@ -179,3 +179,5 @@ flowchart TD
     K --> L[Security Rules]
     K --> M[Cloud Functions]
     M --> N[Audit Logs]
+
+This README documents the engineering behind a private production application. It intentionally omits source code, Firebase configuration, credentials, customer data, and internal business logic.
